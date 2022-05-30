@@ -44,7 +44,7 @@ h1 {
   text-align: center;
 }
 .item-container {
-  display: flex;
+  display: inline-block;
   justify-content: center;
   flex-wrap: wrap;
   gap: 2em;
