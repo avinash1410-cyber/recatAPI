@@ -1,3 +1,5 @@
+<h1>About</h1>
+<p>In this project i ahgve learn how to fetch the data from an API in recat js and how to show it on the Home oage and how to implent the srach functionality in a API call</p>
 <h1>All Products<h1>
 <img width="960" alt="Image1" src="https://user-images.githubusercontent.com/74523129/170908774-42e3b59b-d4c5-4629-abde-2886e10a4f76.PNG">
 <h1>Products resut after serach</h1>
