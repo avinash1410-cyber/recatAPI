@@ -26,12 +26,9 @@ const FeaturedProducts = () => {
             <p>price --{product.price}</p>
           </div>
         ))}
-      </div>
-
-
-
-      
+      </div>      
     </div> */
+    
 }
 
 
